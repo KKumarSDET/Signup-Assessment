@@ -1,0 +1,1 @@
+[{"uid":"123cb422a3df305e","name":"Create account - signup","time":{"start":1722429768407,"stop":1722429788144,"duration":19737},"status":"passed","severity":"normal"},{"uid":"969839d84a5c9851","name":"Signin using account created","time":{"start":1722429768389,"stop":1722429787696,"duration":19307},"status":"failed","severity":"normal"}]
